@@ -66,7 +66,7 @@ export function DeleteModal() {
         <DialogHeader>
           <DialogTitle>Are you share you want to delete</DialogTitle>
           <DialogDescription>
-            This action cannot be undone. This will permanently delte your file!
+            This action cannot be undone. This will permanently delete your file!
           </DialogDescription>
         </DialogHeader>
         <div className="flex space-x-2 py-3">
